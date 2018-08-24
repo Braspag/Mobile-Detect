@@ -1,5 +1,5 @@
 {
-    "name": "luderson/mobiledetectlib",
+    "name": "webjump/mobiledetectlib",
     "type": "library",
     "version": "3.0.2",
     "description": "Mobile_Detect is a lightweight PHP class for detecting mobile devices. It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.",
@@ -8,9 +8,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Luderson Costa",
-            "email": "luderson@howmanyjoins.com.com",
-            "homepage": "http://howmanyjoins.com",
+            "name": "Webjump Developer Team",
+            "email": "dev@webjump.com.br",
+            "homepage": "http://webjump.com.br",
             "role": "Developer"
         }
     ],
